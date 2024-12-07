@@ -1,0 +1,21 @@
+{
+  "Inputs" : {
+    "input_4" : {
+      "MLFeatureShortDescription" : ""
+    }
+  },
+  "Outputs" : {
+    "classLabel" : {
+      "MLFeatureShortDescription" : ""
+    },
+    "Identity" : {
+      "MLFeatureShortDescription" : ""
+    }
+  },
+  "TrainingInputs" : {
+
+  },
+  "States" : {
+
+  }
+}
